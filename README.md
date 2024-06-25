@@ -12,15 +12,17 @@ El proyecto propone una página que ayuda a los usuarios a encontrar fácilmente
 Generar un medio por el que las campañas puedan hacerse accesibles para la gente. 
 
 ### Objetivos especificos. 
-1. a
-2. a
-3. a
-4. a
-5. a
+1. Recoleccion total de tapas de botellas de refresco, detergentes, agua o garrafones
+2. Incrementar el Volumen de Recolección de PET
+3. Fomentar la Educación Ambiental en la Comunidad
+4. Reducir la Huella de Carbono de la Empresa
+5. Aumentar la Conciencia y Visibilidad de la Empresa
 
 ### Identidad gráfica
-
-
+Logo de la empresa:
+![Meteora](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/Logo2.jpeg)
+Logo del producto
+![Meteora](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/logo1.png)
 
 ### Lista de Tecnologias
 
