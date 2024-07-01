@@ -3,7 +3,7 @@
 One More Light es una innovadora plataforma web diseñada para proporcionar a las personas un acceso simplificado a una variedad de campañas de apoyo. Nuestra misión es conectar a usuarios con organizaciones benéficas y proyectos comunitarios de manera eficiente y efectiva.
 
 ### Problemática. 
-La principal problematica que buscamos reducir es la que tienen las personas que buscan encontrar una organización para apoyar de cualquier manera, cuando una persona intenta encontrar una forma de apoyar a una organización, puede darse la situación en la que el usuario no encuentra lo que busca especificamente, por lo que nuestro proyecto propone una forma de encontrar organizaciones mas facilmente. 
+Las personas a menudo enfrentan desafíos al intentar encontrar organizaciones a las cuales apoyar. La búsqueda puede resultar frustrante ya que no siempre se encuentran las opciones deseadas. One More Light se propone resolver esta problemática facilitando el proceso de búsqueda y conectando a los usuarios con las organizaciones que mejor se alineen con sus intereses y capacidades de apoyo.
 
 ### Propuesta de solución. 
 El proyecto propone una página que ayuda a los usuarios a encontrar fácilmente campañas de apoyo qué se encuentren registradas en la misma página por otras organizaciones. 
