@@ -27,7 +27,7 @@ Facilitar el acceso a campañas de apoyo, haciendo que estas sean más visibles 
 ### Identidad gráfica
 Logo de la empresa:
 ![Meteora](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/Logo2.jpeg)
-Logo del producto
+Logo del producto:
 ![Meteora](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/logo1.png)
 
 ### Autores
