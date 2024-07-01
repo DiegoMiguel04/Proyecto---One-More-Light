@@ -9,7 +9,7 @@ Las personas a menudo enfrentan desafíos al intentar encontrar organizaciones a
 Nuestro proyecto ofrece una plataforma intuitiva donde los usuarios pueden descubrir campañas de apoyo registradas por diversas organizaciones. One More Light actúa como un puente, simplificando el acceso y promoviendo una mayor participación en iniciativas benéficas.
 
 ### Objetivo general. 
-Generar un medio por el que las campañas puedan hacerse accesibles para la gente. 
+Facilitar el acceso a campañas de apoyo, haciendo que estas sean más visibles y accesibles para el público en general.
 
 ### Objetivos especificos. 
 1. Recoleccion total de tapas de botellas de refresco, detergentes, agua o garrafones
