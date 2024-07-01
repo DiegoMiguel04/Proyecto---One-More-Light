@@ -18,14 +18,14 @@ Facilitar el acceso a campañas de apoyo, haciendo que estas sean más visibles 
 4. Reducir la Huella de Carbono de la Empresa
 5. Aumentar la Conciencia y Visibilidad de la Empresa
 
+### Lista de Tecnologias
+Servidor: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ### Identidad gráfica
 Logo de la empresa:
 ![Meteora](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/Logo2.jpeg)
 Logo del producto
 ![Meteora](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/logo1.png)
-
-### Lista de Tecnologias
-
 
 ### Autores
 1. Diego Miguel Rivera Chávez 
