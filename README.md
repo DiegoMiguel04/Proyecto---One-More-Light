@@ -38,10 +38,9 @@ Facilitar el acceso a campañas de apoyo, haciendo que estas sean más visibles 
 - Documentación: ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Identidad gráfica
-Logo de la empresa:
-![Meteora](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/Logo2.jpeg)
-Logo del producto:
-![Meteora](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/logo1.png)
+Logos de la empresa:
+![One More Light](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/One%20More%20Light%202.jpg)
+
 
 ### Autores
 1. Diego Miguel Rivera Chávez 
