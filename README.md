@@ -11,6 +11,10 @@ y sobre todo concientisar sobre uno de los problemas mas grandes por los cuales 
 Este proyecto sirve para concientisar sobre un problema que se vive día a día y que nosotros los seres humanos estamos echando a perder muchos lugares , oceanos , areas verdes , contaminando estos bellos lugares donde habitan mas seres vivos , y tener una pisca de solidaridad , pues , ¿ que tanto nos cuesta colocar una tapita en el lugar
 correct ? , bien dicen , ¿ A quien le importa si se apaga una luz mas ? , pues a nosotros si , Recuerda que no se necesitan super poderes para ser un heore.
 
+## ¿ A quien va dirigido ?
+Dirigido hacia todo publico , cualquier persona se puede sumar a este proyecto  que es "One More Light" , recuerden que con tapitas y una sonrisa , hacemos la diferencia
+y es hora de comenzar 
+
 ### Problemática. 
 Las personas a menudo enfrentan desafíos al intentar encontrar organizaciones a las cuales apoyar. La búsqueda puede resultar frustrante ya que no siempre se encuentran las opciones deseadas. One More Light se propone resolver esta problemática facilitando el proceso de búsqueda y conectando a los usuarios con las organizaciones que mejor se alineen con sus intereses y capacidades de apoyo.
 
