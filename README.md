@@ -1,6 +1,15 @@
 # Proyecto---One-More-Light
 ### Descripción. 
 One More Light es una innovadora plataforma web diseñada para proporcionar a las personas un acceso simplificado a una variedad de campañas de apoyo. Nuestra misión es conectar a usuarios con organizaciones benéficas y proyectos comunitarios de manera eficiente y efectiva.
+## ¿Que es One More Light?
+
+One More Light es una empresa dedicada a la recoleccion y donacion de tapitas a traves de campañas para poder ayudar a costear los tratamientos de personas con cancer ,
+y sobre todo concientisar sobre uno de los problemas mas grandes por los cuales el mundo lucha por terminar con ello , la contaminacion por pet.
+
+## ¿ Para que sirve ?
+
+Este proyecto sirve para concientisar sobre un problema que se vive día a día y que nosotros los seres humanos estamos echando a perder muchos lugares , oceanos , areas verdes , contaminando estos bellos lugares donde habitan mas seres vivos , y tener una pisca de solidaridad , pues , ¿ que tanto nos cuesta colocar una tapita en el lugar
+correct ? , bien dicen , ¿ A quien le importa si se apaga una luz mas ? , pues a nosotros si , Recuerda que no se necesitan super poderes para ser un heore.
 
 ### Problemática. 
 Las personas a menudo enfrentan desafíos al intentar encontrar organizaciones a las cuales apoyar. La búsqueda puede resultar frustrante ya que no siempre se encuentran las opciones deseadas. One More Light se propone resolver esta problemática facilitando el proceso de búsqueda y conectando a los usuarios con las organizaciones que mejor se alineen con sus intereses y capacidades de apoyo.
