@@ -22,7 +22,7 @@ Las personas a menudo enfrentan desafíos al intentar encontrar organizaciones a
 Nuestro proyecto ofrece una plataforma intuitiva donde los usuarios pueden descubrir campañas de apoyo registradas por diversas organizaciones. One More Light actúa como un puente, simplificando el acceso y promoviendo una mayor participación en iniciativas benéficas.
 
 ### Objetivo general. 
-Facilitar el acceso a campañas de apoyo, haciendo que estas sean más visibles y accesibles para el público en general.
+Facilitar el acceso a campañas de apoyo, aumentando su visibilidad y accesibilidad para el público en general, es crucial para el éxito de iniciativas ambientales. TapiTec se dedica a la recolección de botellas de PET, organizando eventos y programas de recolección en diversas comunidades. A través de una mayor promoción y una presencia destacada en plataformas digitales y físicas, buscamos involucrar a más personas en la causa. Al hacer las campañas más visibles y accesibles, esperamos educar al público sobre la importancia del reciclaje y fomentar una mayor participación en la recolección de PET, contribuyendo así a la sostenibilidad ambiental y a la reducción de residuos plásticos.
 
 ### Objetivos especificos. 
 1. Recoleccion total de tapas de botellas de refresco, detergentes, agua o garrafones
