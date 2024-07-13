@@ -45,6 +45,6 @@ Logos de la empresa:
 ![colores](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/paletas-colores-maxcf.jpg) 
 
 ### Autores
-1. [Diego Miguel Rivera Chávez](https://github.com/DiegoMiguel04)
-2. [José Francisco Flores Amador](https://github.com/JFFA25)
-3. [Francisco García García](https://github.com/F-ank)
+1. **Diego Miguel Rivera Chávez** /[DiegoMiguel04](https://github.com/DiegoMiguel04)
+2. **José Francisco Flores Amador** / [JFFA25](https://github.com/JFFA25)
+3. **Francisco García García** / [F-ank](https://github.com/F-ank)
