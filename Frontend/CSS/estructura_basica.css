@@ -1,0 +1,100 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 0;
+    width: auto;
+}
+body {
+    height: auto;
+}
+header {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-height: max-content;
+    z-index:15
+}
+footer {
+    padding: 75px 30% 0 30%;
+    background: linear-gradient(45deg, #6f9dff, #1b3b81);
+    color: white;
+    height: 300px;
+}
+img {
+    -webkit-user-drag: none;
+}
+#barra_boton_login {
+    position: relative;
+    z-index: 11;
+    left: 93vw;
+}
+#barra_logo {
+    position: absolute;
+    width: 210px;
+    top: 0;
+    left: 0;
+    z-index: 11;
+}
+#boton_login {
+    background: white;
+    padding: 20px;
+    font-weight: bold;
+    transition: 0.3s ease;
+    color: rgb(60, 60, 60);
+    display: inline-block;
+    border: 0;
+}
+#boton_login:hover {
+    background: linear-gradient(45deg, #80d0ff, #709eff);
+    color: white;
+}
+#logotipo {
+    position: absolute;
+    font-family: 'lemonmilk';
+    top: 0;
+    left: 0;
+    margin-left: 30%;
+    margin-top: 9%;
+}
+.barra_superior {
+    position: absolute;
+    top: 0;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    z-index: 10;
+    width: 100vw;
+}
+.barra_superior>a{
+    background: white;
+    padding: 1%;
+    font-weight: bold;
+    transition: 0.3s ease;
+    color: rgb(60, 60, 60);
+    display: inline-block;
+    border: 0;
+}
+.barra_superior>a:hover {
+    background: linear-gradient(45deg, #80d0ff, #709eff);
+    color: white;
+}
+.elementos_desplazados {
+    display: flex;
+}
+.sub_elementos_footer {
+    margin-right: 5%;
+}
+.items_footer {
+    margin-right: 10px;
+}
+.footer_bajo {
+    background: linear-gradient(45deg, #2a3d66, #162f65, #091837);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@font-face {
+    font-family: 'lemonmilk';
+    src: url('/assets/LEMONMILK-Regular.otf') format('woff2');
+}
