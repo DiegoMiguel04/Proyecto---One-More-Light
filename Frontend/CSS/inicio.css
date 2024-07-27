@@ -1,0 +1,211 @@
+b {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #1b3b81;
+}
+body {
+    overflow-x: hidden;
+}
+
+/*Elementos principales*/
+.banner_principal {
+    background: linear-gradient(270deg, #75a3ff, #ffffff, #ffffff);
+    box-sizing: border-box;
+    display: flex;
+    height: auto;
+}
+.texto {
+    text-align: center;
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.fondo_gradiente {
+    background: linear-gradient(45deg, #a3ddff, #37b6ff, #0051ff);
+}
+
+
+
+
+
+/*carrusel*/
+.carrusel_container {
+    background: #ffffff;
+    position: relative;
+}
+.carrusel {
+    position: relative;
+    width: 70%;
+    height: 700px;
+    background: #ffffff;
+}
+.carrusel .slide .item {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    transform: translate(100%, -50%);
+    box-shadow: 0 30px 50px #505050;
+    background: linear-gradient();
+    border-radius: 20px;
+    background-position: 50% 50%;
+    background-size: cover;
+    display: inline-block;
+    transition: 0.5s;
+}
+.carrusel .item.large {
+    width: 100%;
+    height: 100%;
+    box-shadow: none;
+}
+.slide .item:nth-child(1),
+.slide .item:nth-child(2) {
+    top: 0;
+    left: 0;
+    transform: translate(0, 0);
+    border-radius: 0;
+    width: 100%;
+    height: 100%;
+}
+.slide .item:nth-child(3) {
+    left: 50%;
+}
+.slide .item:nth-child(4) {
+    left: calc(50% + 220px);
+}
+.slide .item:nth-child(5) {
+    left: calc(50% + 440px);
+}
+.slide .item:nth-child(6) {
+    left: calc(50% + 660px);
+}
+.slide .item:nth-child(n + 7) {
+    left: calc(50% + 880px);
+    opacity: 0;
+}
+.item .contenido {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    width: 320px;
+    text-align: left;
+    color: #000000;
+    transform: translate(0, -50%);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: none;
+}
+.slide .item:nth-child(2) .contenido {
+    display: block;
+}
+.contenido .nombre {
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+    opacity: 0;
+    width: 130%;
+    animation: animate 1s ease-in-out 1 forwards;
+}
+.contenido .descripcion {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    opacity: 0;
+    width: 130%;
+    animation: animate 1s ease-in-out 0.3s 1 forwards;
+}
+.contenido .enlaces {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0;
+    animation: animate 1s ease-in-out 0.6s 1 forwards;
+}
+@keyframes animate {
+    from {
+        opacity: 0;
+        transform: translate(0, 100px);
+        filter: blur(33px);
+    } to {
+        opacity: 1;
+        transform: translate(0);
+        filter: blur(0);
+    }
+}
+.botones_carrusel {
+    width: 142%;
+    top: 85%;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+    z-index: 10;
+}
+.botones_carrusel button {
+    width: 40px;
+    height: 35px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    margin: 0 5px;
+    transition: 0.3s;
+}
+.botones_carrusel button:hover {
+    background: #ababab;
+    color: #fff;
+}
+.enlaces {
+    background: rgb(10, 79, 181);
+    border-radius: 8px;
+    color: white;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: 0.4s;
+}
+.enlaces:hover {
+    background: white;
+    color: black;
+}
+/*carrusel*/
+
+
+
+
+/*Elementos secundarios*/
+.c_texto {
+    color: white;
+    text-align: justify;
+}
+.p_texto {
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.3;
+    margin-top: 20px;
+}
+.h_titulo {
+    position: relative;
+    left: 60%;
+    color: white;
+    z-index: 10;
+    top: 12%;
+}
+#imagen_logo {
+    width: 25%;
+    height: auto;
+    margin-left: 16%;
+}
+#container_img {
+    position: relative;
+    width: 100%;
+}
+#titulo {
+    font-family: 'lemonmilk';
+    font-size: 60px;
+}
+#container_titulo {
+    position: relative;
+    margin-left: -60%;
+    margin-top: 10%;
+}
