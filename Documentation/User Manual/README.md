@@ -1,17 +1,16 @@
-# Instalation  ![Instalation](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-En esta sección se encontrarán los archivos referentes a las instrucciones de instalacion del proyecto.
+# UserManual  ![UserManual](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+En esta sección se encontrarán los archivos referentes al manual de usuario.
 
 ## Estructura de Archivos
 > <br>
 >Integradora I - One More Light<br>
->| - Backend<br>
->| - DataBase<br>
+>| - BackEnd<br>
+>| - Databases<br>
 >| - Documentation<br>
->&nbsp;&nbsp;**|- Instalation**<br>
->&nbsp;&nbsp;|- Manual<br>
+>&nbsp;&nbsp;|- Instalation Manual<br>
 >&nbsp;&nbsp;|- NFRs<br>
 >&nbsp;&nbsp;|- UHs<br>
->&nbsp;&nbsp;|- UserManual<br>
+>&nbsp;&nbsp;**|- User Manual**<br>
 >| - FrontEnd<br>
 > <br>
 

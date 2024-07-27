@@ -4,8 +4,8 @@ En esta sección se encontrarán las consultas de la base de datos del proyecto.
 ## Estructura de Archivos
 > <br>
 >Integradora I - One More Light<br>
->| - Backend<br>
->| - DataBase<br>
+>| - BackEnd<br>
+>| - Databases<br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data_Dictionary<br>
 >&nbsp;&nbsp;|- Diagrams<br>

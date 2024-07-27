@@ -4,14 +4,13 @@ En esta sección se encontrará todo lo referente a las historias de usuario del
 ## Estructura de Archivos
 > <br>
 >Integradora I - One More Light<br>
->| - Backend<br>
->| - DataBase<br>
+>| - BackEnd<br>
+>| - Databases<br>
 >| - Documentation<br>
->&nbsp;&nbsp;|- Instalation<br>
->&nbsp;&nbsp;|- Manual<br>
+>&nbsp;&nbsp;|- Instalation Manual<br>
 >&nbsp;&nbsp;|- NFRs<br>
 >&nbsp;&nbsp;**|- UHs**<br>
->&nbsp;&nbsp;|- UserManual<br>
+>&nbsp;&nbsp;|- User Manual<br>
 >| - FrontEnd<br>
 > <br>
 
