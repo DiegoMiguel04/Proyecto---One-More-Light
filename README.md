@@ -39,10 +39,10 @@ Facilitar el acceso a campañas de apoyo, aumentando su visibilidad y accesibili
 
 ### Identidad gráfica
 Logos de la empresa:
-![One More Light]()
+![One More Light](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/Frontend/assets/Logo2.jpeg)
 
 ### Paleta de colores
-![colores]()
+![colores](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/Frontend/assets/paleta-colores.jpg)
 
 ### Autores
 1. **Diego Miguel Rivera Chávez** /[@DiegoMiguel04](https://github.com/DiegoMiguel04)
