@@ -1,12 +1,11 @@
-//carrusel
 document.addEventListener('DOMContentLoaded', () => {
-    const next = document.querySelector(".next");
-    const prev = document.querySelector(".prev");
+    const siguiente = document.querySelector(".siguiente");
+    const anterior = document.querySelector(".anterior");
     const slide = document.querySelector(".slide");
 
-    let isThrottled = false;
-    const throttleDuration = 1000;
-    function updateItemsClass() {
+    let condicion_principal = false;
+    const tiempo_duracion = 1000;
+    function cambiar_clase() {
         const items = slide.querySelectorAll('.item');
         items.forEach((item, index) => {
             if (index === 0 || index === 1) {
@@ -16,28 +15,27 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
-    function handleNextClick() {
-        if (isThrottled) return;
-        isThrottled = true;
+    function clic_siguiente() {
+        if (condicion_principal) return;
+        condicion_principal = true;
         slide.appendChild(slide.firstElementChild);
-        updateItemsClass();
+        cambiar_clase();
 
         setTimeout(() => {
-            isThrottled = false;
-        }, throttleDuration);
+            condicion_principal = false;
+        }, tiempo_duracion);
     }
-    function handlePrevClick() {
-        if (isThrottled) return;
-        isThrottled = true;
+    function clic_atras() {
+        if (condicion_principal) return;
+        condicion_principal = true;
         slide.insertBefore(slide.lastElementChild, slide.firstElementChild);
-        updateItemsClass();
+        cambiar_clase();
 
         setTimeout(() => {
-            isThrottled = false;
-        }, throttleDuration);
+            condicion_principal = false;
+        }, tiempo_duracion);
     }
-    next.addEventListener('click', handleNextClick);
-    prev.addEventListener('click', handlePrevClick);
-    updateItemsClass();
+    siguiente.addEventListener('click', clic_siguiente);
+    anterior.addEventListener('click', clic_atras);
+    cambiar_clase();
 });
-//carrusel

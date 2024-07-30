@@ -17,12 +17,20 @@ header {
 }
 footer {
     padding: 75px 30% 0 30%;
-    background: linear-gradient(45deg, #6f9dff, #1b3b81);
+    background-color: #1b3b81;
     color: white;
     height: 300px;
+    /* border-top: solid #ffffff 50px; */
 }
 img {
     -webkit-user-drag: none;
+}
+b {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #1b3b81;
 }
 #barra_boton_login {
     position: relative;
@@ -79,20 +87,46 @@ img {
     background: linear-gradient(45deg, #80d0ff, #709eff);
     color: white;
 }
+.fondo_gradiente {
+    background: linear-gradient(90deg, #1b3b81, #6f9dff);
+    padding-bottom: 150px;
+}
+.texto {
+    text-align: center;
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
 .elementos_desplazados {
     display: flex;
 }
 .sub_elementos_footer {
-    margin-right: 5%;
+    margin-right: 6%;
+    min-width: 20%;
 }
 .items_footer {
     margin-right: 10px;
 }
 .footer_bajo {
-    background: linear-gradient(45deg, #2a3d66, #162f65, #091837);
+    background-color: #193777;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.footer_anclas {
+    color: white;
+    transition: 0.3s;
+}
+.footer_anclas:hover {
+    color: #b4ddff;
+}
+.sin_seleccion {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }
 @font-face {
     font-family: 'lemonmilk';
