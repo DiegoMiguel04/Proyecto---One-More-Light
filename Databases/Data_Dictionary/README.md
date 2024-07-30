@@ -6,13 +6,13 @@ En esta sección se encontrará el Diccionario de datos del proyecto.
 >Integradora I - One More Light<br>
 >| - BackEnd<br>
 >| - Databases<br>
->&nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp;**|- Data_Dictionary**<br>
->&nbsp;&nbsp;|- Diagrams<br>
->&nbsp;&nbsp;|- Queries<br>
->&nbsp;&nbsp;|- Scripts<br>
->&nbsp;&nbsp;|- Triggers<br>
->&nbsp;&nbsp;|- USPs<br>
+>|- Backups<br>
+>**|- Data_Dictionary**<br>
+>|- Diagrams<br>
+>|- Queries<br>
+>|- Scripts<br>
+>|- Triggers<br>
+>|- USPs<br>
 >| - Documetation<br>
 >| - FrontEnd<br>
 > <br>
