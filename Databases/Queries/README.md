@@ -6,9 +6,9 @@ En esta sección se encontrarán las consultas de la base de datos del proyecto.
 >Integradora I - One More Light<br>
 >| - BackEnd<br>
 >| - Databases<br>
->&nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp;|- Data_Dictionary<br>
->&nbsp;&nbsp;|- Diagrams<br>
+>|- Backups<br>
+>|- Data_Dictionary<br>
+>|- Diagrams<br>
 >&nbsp;&nbsp;**|- Queries**<br>
 >&nbsp;&nbsp;|- Scripts<br>
 >&nbsp;&nbsp;|- Triggers<br>
@@ -21,6 +21,6 @@ En esta sección se encontrarán las consultas de la base de datos del proyecto.
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Diego Miguel Rivera Chavez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|Líder de desarrollo de frontend|✅Revisado y aprobado.|
+|Diego Miguel Rivera Chavez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|Líder de desarrollo de frontend|😔No ha revisado.|
 |Jose Francisco Flores Amador|[@JFFA25](https://github.com/JFFA25)|Desarrollador de bases de datos|✅Revisado y aprobado.|
 |Francisco Garcia Garcia|[@F-ank](https://github.com/F-ank)|Desarrollador de backend|😔No ha revisado.|
