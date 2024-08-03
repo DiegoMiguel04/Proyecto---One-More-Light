@@ -2,10 +2,11 @@
 
 En esta carpeta de  contiene los elementos necesarios para definir, mantener y actualizar el mapa del sitio web.que proporcionan la estructura del sitio tanto para motores de búsqueda como para los usuarios.
 > Integradora I - One More Light<br>
-> | - Backend 
-> | - Database
+> | - Backend <br>
+> | . Database<br>
 > | - **Documentation**<br> >&nbsp;&nbsp;&nbsp;|- GUI<br> >&nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br> >&nbsp;&nbsp;&nbsp;&nbsp;|-Prototype<br> >&nbsp;&nbsp;&nbsp;&nbsp;|- **SisteMap**<br> >&nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br> >&nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
 > | - FrontEnd
+
 ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
