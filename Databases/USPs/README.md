@@ -1,21 +1,19 @@
-# USPs  ![Triggers](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+# USPs  ![USPs](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 En esta sección se encontrarán los USPs de la base de datos del proyecto.
 
 ## Estructura de Archivos
-> <br>
->Integradora I - One More Light<br>
->| - BackEnd<br>
+>Integradora I -  One More Light<br>
+>| - BackEnd <br>
 >| - Databases<br>
 >&nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp;|- Data_Dictionary<br>
->&nbsp;&nbsp;|- Diagrams<br>
+>&nbsp;&nbsp;|- Data Dictionary<br>
+>&nbsp;&nbsp;|- Diagramas<br>
 >&nbsp;&nbsp;|- Queries<br>
 >&nbsp;&nbsp;|- Scripts<br>
 >&nbsp;&nbsp;|- Triggers<br>
->**|- USPs**<br>
->| - Documetation<br>
+>| - **USPs**<br>
+>| - Documentation<br>
 >| - FrontEnd<br>
-> <br>
 
 ## Equipo de Desarrollo
 
