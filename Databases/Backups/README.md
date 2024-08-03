@@ -17,6 +17,7 @@ En esta sección se encontrarán los recursos referentes a los backups de la bas
 
 ## Equipo de Desarrollo
 
+
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Diego Miguel Rivera Chavez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|Líder de desarrollo de frontend|✅Revisado y aprobado.|
