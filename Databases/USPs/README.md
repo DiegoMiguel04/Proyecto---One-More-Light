@@ -23,4 +23,4 @@ En esta sección se encontrarán los USPs de la base de datos del proyecto.
 |------------|--------|---|---|
 |Diego Miguel Rivera Chavez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|Líder de desarrollo de frontend|😔No ha revisado.|
 |Jose Francisco Flores Amador|[@JFFA25](https://github.com/JFFA25)|Desarrollador de bases de datos|✅Revisado y aprobado.|
-|Francisco Garcia Garcia|[@F-ank](https://github.com/F-ank)|Desarrollador de backend|😔No ha revisado.|
+|Francisco Garcia Garcia|[@F-ank](https://github.com/F-ank)|Desarrollador de backend|✅Revisado y aprobado.|

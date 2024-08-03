@@ -20,4 +20,4 @@ En esta sección se encontrarán todas las carpetas relacionadas al Frontend del
 |------------|--------|---|---|
 |Diego Miguel Rivera Chavez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|Líder de desarrollo de frontend|✅Revisado y aprobado.|
 |Jose Francisco Flores Amador|[@JFFA25](https://github.com/JFFA25)|Desarrollador de bases de datos|😔No ha revisado.|
-|Francisco Garcia Garcia|[@F-ank](https://github.com/F-ank)|Desarrollador de backend|😔No ha revisado.|
+|Francisco Garcia Garcia|[@F-ank](https://github.com/F-ank)|Desarrollador de backend|✅Revisado y aprobado.|
