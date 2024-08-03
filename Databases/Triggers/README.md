@@ -2,20 +2,18 @@
 En esta sección se encontrarán las consultas de la base de datos del proyecto.
 
 ## Estructura de Archivos
-> <br>
->Integradora I - One More Light<br>
->| - BackEnd<br>
+>Integradora I -  One More Light<br>
+>| - BackEnd <br>
 >| - Databases<br>
 >&nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp;|- Data_Dictionary<br>
->&nbsp;&nbsp;|- Diagrams<br>
+>&nbsp;&nbsp;|- Data Dictionary<br>
+>&nbsp;&nbsp;|- Diagramas<br>
 >&nbsp;&nbsp;|- Queries<br>
 >&nbsp;&nbsp;|- Scripts<br>
->&nbsp;&nbsp;**|- Triggers**<br>
+>| - **Triggers**<br>
 >&nbsp;&nbsp;|- USPs<br>
->| - Documetation<br>
+>| - Documentation<br>
 >| - FrontEnd<br>
-> <br>
 
 ## Equipo de Desarrollo
 

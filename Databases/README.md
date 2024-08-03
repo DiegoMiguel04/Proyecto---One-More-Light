@@ -1,9 +1,9 @@
 # Databases ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-En este apartado se encuentra todo lo realacioando con la base de  datos del proyecto con sus carpetas y respectivos archivos ,Backups,Data Dictionary,Diagrams,Queries,Scripts,Triggers,USPs.
+En este apartado se encuentra todo lo realacioando con la base de  datos del proyecto con sus carpetas y respectivos archivos.
 
 ## Estructura de Archivos
 
->IntegradoraI -  One More Light<br>
+>Integradora I -  One More Light<br>
 >| - BackEnd <br>
 >| - **Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>

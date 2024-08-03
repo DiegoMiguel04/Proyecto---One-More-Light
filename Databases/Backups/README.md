@@ -1,21 +1,19 @@
-# Backups  ![Backups](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+# Backups  ![Backups](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 En esta sección se encontrarán los recursos referentes a los backups de la base de datos del proyecto.
 
 ## Estructura de Archivos
-> <br>
->Integradora I - One More Light<br>
->| - BackEnd<br>
->| - Databases<br>
->&nbsp;&nbsp;**|- Backups**<br>
->&nbsp;&nbsp;|- Data_Dictionary<br>
->&nbsp;&nbsp;|- Diagrams<br>
+>Integradora I -  One More Light<br>
+>| - BackEnd <br>
+>| - Databases <br>
+>| - **Backups**<br>
+>&nbsp;&nbsp;|- Data Dictionary<br>
+>&nbsp;&nbsp;|- Diagramas<br>
 >&nbsp;&nbsp;|- Queries<br>
 >&nbsp;&nbsp;|- Scripts<br>
 >&nbsp;&nbsp;|- Triggers<br>
 >&nbsp;&nbsp;|- USPs<br>
->| - Documetation<br>
+>| - Documentation<br>
 >| - FrontEnd<br>
-> <br>
 
 ## Equipo de Desarrollo
 

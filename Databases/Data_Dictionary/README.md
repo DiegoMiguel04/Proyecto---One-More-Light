@@ -1,21 +1,19 @@
-# Data_Dictionary  ![Data_Dictionary](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+# Data_Dictionary  ![Data_Dictionary](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 En esta sección se encontrará el Diccionario de datos del proyecto.
 
 ## Estructura de Archivos
-> <br>
->Integradora I - One More Light<br>
->| - BackEnd<br>
->| - Databases<br>
->|- Backups<br>
->**|- Data_Dictionary**<br>
->|- Diagrams<br>
->|- Queries<br>
->|- Scripts<br>
->|- Triggers<br>
->|- USPs<br>
->| - Documetation<br>
+>Integradora I -  One More Light<br>
+>| - BackEnd <br>
+>| - Databases <br>
+>| - Backups <br>
+>| - **Data_Dictionary**<br>
+>&nbsp;&nbsp;|- Diagramas<br>
+>&nbsp;&nbsp;|- Queries<br>
+>&nbsp;&nbsp;|- Scripts<br>
+>&nbsp;&nbsp;|- Triggers<br>
+>&nbsp;&nbsp;|- USPs<br>
+>| - Documentation<br>
 >| - FrontEnd<br>
-> <br>
 
 ## Equipo de Desarrollo
 
