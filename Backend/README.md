@@ -3,7 +3,7 @@
 En este apartado se encontraran las carpetas correspondientes al apartado de backend.
 
 ## Estructura de Archivos
-> <br>
+
 >Integradora I - One More Light<br>
 >&nbsp;&nbsp;**| - Backend**<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - BD_Conection<br>
@@ -11,7 +11,7 @@ En este apartado se encontraran las carpetas correspondientes al apartado de bac
 >| - Databases<br>
 >| - Documetation<br>
 >| - FrontEnd<br>
-> <br>
+
 
 ## Equipo de Desarrollo
 
