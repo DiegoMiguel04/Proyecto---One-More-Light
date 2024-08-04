@@ -7,7 +7,4 @@ BEGIN
             CONCAT('Nombre de usuario: ', OLD.nombre_usuario, ' -> ', NEW.nombre_usuario, 
                    ', Correo: ', OLD.correo, ' -> ', NEW.correo), 
             NOW());
-    
-    IF NEW.correo != OLD.correo THEN
-    END IF;
-    END;
+END;
