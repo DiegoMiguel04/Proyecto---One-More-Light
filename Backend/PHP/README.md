@@ -3,7 +3,7 @@
 En este apartado se encontraran los elementos referentes al apartado con PHP.
 
 ## Estructura de Archivos
-> <br>
+
 >Integradora I - One More Light<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;| - BackEnd<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - BD_Conection<br>
@@ -11,7 +11,7 @@ En este apartado se encontraran los elementos referentes al apartado con PHP.
 >| - Databases<br>
 >| - Documetation<br>
 >| - FrontEnd<br>
-> <br>
+
 
 ## Equipo de Desarrollo
 
