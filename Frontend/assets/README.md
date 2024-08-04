@@ -2,17 +2,16 @@
 En esta sección se encontrarán los recursos utilizados en el proyecto.
 
 ## Estructura de Archivos
-> <br>
 >Integradora I - One More Light<br>
 >| - BackEnd<br>
 >| - Databases<br>
 >| - Documentation<br>
 >**| - FrontEnd**<br>
->&nbsp;&nbsp;**|- assets**<br>
+>&nbsp;&nbsp;**|- Assets**<br>
 >&nbsp;&nbsp;|- HTML<br>
 >&nbsp;&nbsp;|- CSS<br>
 >&nbsp;&nbsp;|- JS<br>
-> <br>
+
 
 ## Equipo de Desarrollo
 
