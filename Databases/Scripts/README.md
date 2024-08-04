@@ -4,12 +4,12 @@ En esta sección se encontrarán los Scripts de la base de datos del proyecto.
 ## Estructura de Archivos
 >Integradora I -  One More Light<br>
 >| - BackEnd <br>
->| - **Databases**<br>
+>| - Databases<br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data Dictionary<br>
 >&nbsp;&nbsp;|- Diagramas<br>
 >&nbsp;&nbsp;|- Queries<br>
->&nbsp;&nbsp;|- Scripts<br>
+>&nbsp;&nbsp;|- **Scripts**<br>
 >&nbsp;&nbsp;|- Triggers<br>
 >&nbsp;&nbsp;|- USPs<br>
 >| - Documentation<br>

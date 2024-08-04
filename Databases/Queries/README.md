@@ -9,7 +9,7 @@ En esta sección se encontrarán las consultas de la base de datos del proyecto.
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data Dictionary<br>
 >&nbsp;&nbsp;|- Diagramas<br>
->| - **Queries**<br>
+>&nbsp;&nbsp;|- **Queries**<br>
 >&nbsp;&nbsp;|- Scripts<br>
 >&nbsp;&nbsp;|- Triggers<br>
 >&nbsp;&nbsp;|- USPs<br>

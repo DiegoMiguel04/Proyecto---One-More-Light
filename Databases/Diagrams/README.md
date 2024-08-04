@@ -4,10 +4,10 @@ En esta sección se encontrarán los diagramas referentes a la base de datos del
 ## Estructura de Archivos
 >Integradora I -  One More Light<br>
 >| - BackEnd <br>
->&nbsp;&nbsp;|- Databases<br>
+>|- Databases<br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data Dictionary<br>
->| - **Diagrams**<br>
+>&nbsp;&nbsp;|- **Diagrams**<br>
 >&nbsp;&nbsp;|- Queries<br>
 >&nbsp;&nbsp;|- Scripts<br>
 >&nbsp;&nbsp;|- Triggers<br>

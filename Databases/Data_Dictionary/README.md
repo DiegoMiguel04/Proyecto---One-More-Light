@@ -6,7 +6,7 @@ En esta sección se encontrará el Diccionario de datos del proyecto.
 >| - BackEnd <br>
 >| - Databases <br>
 >| - Backups <br>
->| - **Data_Dictionary**<br>
+>&nbsp;&nbsp;|- **Data_Dictionary**<br>
 >&nbsp;&nbsp;|- Diagramas<br>
 >&nbsp;&nbsp;|- Queries<br>
 >&nbsp;&nbsp;|- Scripts<br>

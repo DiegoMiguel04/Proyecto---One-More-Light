@@ -11,7 +11,7 @@ En esta sección se encontrarán los USPs de la base de datos del proyecto.
 >&nbsp;&nbsp;|- Queries<br>
 >&nbsp;&nbsp;|- Scripts<br>
 >&nbsp;&nbsp;|- Triggers<br>
->| - **USPs**<br>
+>&nbsp;&nbsp;|- **USPs**<br>
 >| - Documentation<br>
 >| - FrontEnd<br>
 
