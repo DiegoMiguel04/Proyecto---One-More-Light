@@ -3,15 +3,15 @@
 En este apartado se encontraran los elementos referentes al apartado con la conexion de la base de datos a la aplicación web.
 
 ## Estructura de Archivos
-> <br>
+
 >Integradora I - One More Light<br>
->&nbsp;&nbsp;&nbsp;&nbsp;| - BackEnd<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| - BD_Conection**<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - PHP<br>
+>&nbsp;&nbsp;&nbsp;| - BackEnd<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| - BD_Conection**<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - PHP<br>
 >| - Databases<br>
 >| - Documetation<br>
 >| - FrontEnd<br>
-> <br>
+
 
 ## Equipo de Desarrollo
 
