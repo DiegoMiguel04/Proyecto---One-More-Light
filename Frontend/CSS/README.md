@@ -2,7 +2,6 @@
 En esta sección se encontrarán los archivos de tipo CSS utilizados en el proyecto.
 
 ## Estructura de Archivos
-> <br>
 >Integradora I - One More Light<br>
 >| - BackEnd<br>
 >| - Databases<br>
@@ -12,7 +11,6 @@ En esta sección se encontrarán los archivos de tipo CSS utilizados en el proye
 >&nbsp;&nbsp;|- HTML<br>
 >&nbsp;&nbsp;**|- CSS**<br>
 >&nbsp;&nbsp;|- JS<br>
-> <br>
 
 ## Equipo de Desarrollo
 

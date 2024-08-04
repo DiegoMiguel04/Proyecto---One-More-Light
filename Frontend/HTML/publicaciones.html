@@ -29,7 +29,95 @@
 
 
     <main>
-        
+         <!-- Modal de login -->
+        <div id="modal_register" class="modalmask">
+            <div class="modalbox movedown">
+                <a href="#close" title="Cerrar" class="close">🗙</a>
+                <img src="/assets/images/logo1.png" alt="logo" class="logo1">
+                <h2 style="margin-left: 10%; margin-top: 5%; font-size: 30px;">Registrarse</h2>
+                <div style="min-height: 50px;"></div>
+                <form  action="">
+                    <div class="filas_form">
+                        <div class="parrafo">
+                            <h4 class="r_h4">Nombre</h4>
+                            <input type="text" class="input2" placeholder="Nombre de usuario" required>
+                        </div>
+                    </div>
+                    <div class="filas_form">
+                        <div class="parrafo">
+                            <h4 class="r_h4">Email</h4>
+                            <input type="email" class="input2" placeholder="user@gmail.com" required>
+                        </div>
+                    </div>
+                    <div class="filas_form">
+                        <div class="parrafo">
+                            <h4 class="r_h4">Contraseña</h4>
+                            <input type="text" class="input2" placeholder="********" required>
+                        </div>
+                    </div>
+                    <div style="min-height: 30px;"></div>
+                    <div class="filas_form">
+                        <div class="parrafo">
+                            <input type="submit" id="boton1" value="Registrarse">
+                            <button id="boton2">⊘ Cancelar</button>
+                        </div>
+                    </div>
+                </form>
+                <div class="modalbox_der">
+                    <div id="log_title">
+                        <h2 style="font-size: 30px;">Iniciar sesión</h2>
+                    </div>
+                    <div id="log_conte">
+                        <p>¿Ya tienes una cuenta registrada? ¡Inicia sesión!</p>
+                        <div style="height: 30px;"></div>
+                        <a href="#modal_login" title="Iniciar sesion" id="boton3">Iniciar sesión</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal de registro -->
+        <div id="modal_login" class="modalmask">
+            <div class="modalbox movedown">
+                <a href="#close" title="Cerrar" class="close">🗙</a>
+                <img src="/assets/images/logo1.png" alt="logo" class="logo1">
+                <h2 style="margin-left: 10%; margin-top: 5%; font-size: 30px;">Iniciar sesión</h2>
+                <div style="min-height: 50px;"></div>
+                <form  action="">
+                    <div class="filas_form">
+                        <div class="parrafo">
+                            <h4 class="r_h4">Email</h4>
+                            <input type="email" class="input2" placeholder="user@gmail.com" required>
+                        </div>
+                    </div>
+                    <div class="filas_form">
+                        <div class="parrafo">
+                            <h4 class="r_h4">Contraseña</h4>
+                            <input type="text" class="input2" placeholder="********" required>
+                        </div>
+                    </div>
+                    <div style="min-height: 100px;"></div>
+                    <div class="filas_form">
+                        <div class="parrafo">
+                            <input type="submit" id="boton1" value="Iniciar sesión">
+                            <button id="boton2">⊘ Cancelar</button>
+                        </div>
+                    </div>
+                </form>
+                <div class="modalbox_der">
+                    <div id="log_title">
+                        <h2 style="font-size: 30px; margin-left: 18px;">Registrarse</h2>
+                    </div>
+                    <div id="log_conte" style="margin-top: -20px;">
+                        <p>¿No tienes una cuenta? ¡Registrate!</p>
+                        <div style="height: 30px;"></div>
+                        <a href="#modal_register" title="Registrarse" id="boton3">Registrarse</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
     </main>
 
 
