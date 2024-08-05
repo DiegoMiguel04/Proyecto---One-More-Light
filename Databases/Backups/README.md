@@ -1,5 +1,6 @@
 # Backups  ![Backups](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-En esta sección se encontrarán los recursos referentes a los backups de la base de datos del proyecto.
+
+En este apartado, se muestra los backups realizados para la base de datos del proyecto.
 
 ## Estructura de Archivos
 >Integradora I -  One More Light<br>
