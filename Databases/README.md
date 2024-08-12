@@ -3,8 +3,9 @@ En este apartado se encuentra todo lo realacioando con la base de  datos del pro
 
 ## Estructura de Archivos
 
->Integradora I -  One More Light<br>
->| - BackEnd <br>
+>Integradora I -  One More Light
+
+>| - Backend <br>
 >| - **Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data Dictionary<br>
@@ -14,7 +15,7 @@ En este apartado se encuentra todo lo realacioando con la base de  datos del pro
 >&nbsp;&nbsp;|- Triggers<br>
 >&nbsp;&nbsp;|- USPs<br>
 >| - Documentation<br>
->| - FrontEnd<br>
+>| - FrontEnd
 
 ## Equipo de Desarrollo
 

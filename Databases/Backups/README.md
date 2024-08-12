@@ -1,9 +1,10 @@
 # Backups  ![Backups](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 En este apartado, se muestra los backups realizados para la base de datos del proyecto.
 
 ## Estructura de Archivos
+
 >Integradora I -  One More Light<br>
+
 >| - BackEnd <br>
 >| - Databases <br>
 >&nbsp;&nbsp;| - **Backups**<br>
@@ -14,7 +15,7 @@ En este apartado, se muestra los backups realizados para la base de datos del pr
 >&nbsp;&nbsp;|- Triggers<br>
 >&nbsp;&nbsp;|- USPs<br>
 >| - Documentation<br>
->| - FrontEnd<br>
+>| - FrontEnd
 
 ## Equipo de Desarrollo
 

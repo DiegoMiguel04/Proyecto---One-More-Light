@@ -14,7 +14,7 @@ En esta sección se encontrarán las consultas de la base de datos del proyecto.
 >&nbsp;&nbsp;|- Triggers<br>
 >&nbsp;&nbsp;|- USPs<br>
 >| - Documentation<br>
->| - FrontEnd<br>
+>| - FrontEnd
 
 ## Equipo de Desarrollo
 

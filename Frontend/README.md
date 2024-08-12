@@ -2,11 +2,9 @@
 En esta sección se encontrarán todas las carpetas relacionadas al Frontend del proyecto, entre ellas se encuentran HTML, CSS, JS y assets.
 
 ## Estructura de Archivos
-<<<<<<< HEAD
-=======
 
->>>>>>> 922374725f530a589d5dbd09505961faa239dfb4
->Integradora I - One More Light<br>
+>Integradora I - One More Light
+
 >| - BackEnd<br>
 >| - Databases<br>
 >| - Documentation<br>
@@ -15,10 +13,6 @@ En esta sección se encontrarán todas las carpetas relacionadas al Frontend del
 >&nbsp;&nbsp;|- HTML<br>
 >&nbsp;&nbsp;|- CSS<br>
 >&nbsp;&nbsp;|- JS<br>
-<<<<<<< HEAD
-=======
-
->>>>>>> 922374725f530a589d5dbd09505961faa239dfb4
 
 ## Equipo de Desarrollo
 
@@ -26,4 +20,4 @@ En esta sección se encontrarán todas las carpetas relacionadas al Frontend del
 |------------|--------|---|---|
 |Diego Miguel Rivera Chavez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|Líder de desarrollo de frontend|✅Revisado y aprobado.|
 |Jose Francisco Flores Amador|[@JFFA25](https://github.com/JFFA25)|Desarrollador de bases de datos|😔No ha revisado.|
-|Francisco Garcia Garcia|[@F-ank](https://github.com/F-ank)|Desarrollador de backend|✅Revisado y aprobado.|
+|Francisco Garcia Garcia|[@F-ank](https://github.com/F-ank)|Desarrollador de backend|😔No ha revisado.|

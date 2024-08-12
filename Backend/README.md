@@ -1,16 +1,14 @@
 # Backend ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![BD](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 En este apartado se encontraran las carpetas correspondientes al apartado de backend.
 
 ## Estructura de Archivos
 
 >Integradora I - One More Light<br>
->&nbsp;&nbsp;**| - Backend**<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - BD_Conection<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - PHP<br>
+
+>| - **Backend**<br>
 >| - Databases<br>
->| - Documetation<br>
->| - FrontEnd<br>
+>| - Documentation<br>
+>| - Frontend
 
 
 ## Equipo de Desarrollo
