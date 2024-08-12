@@ -52,6 +52,7 @@ b {
     color: rgb(60, 60, 60);
     display: inline-block;
     border: 0;
+    max-height: 10px;
 }
 #boton_login:hover {
     background: linear-gradient(45deg, #80d0ff, #709eff);
@@ -130,5 +131,5 @@ b {
 }
 @font-face {
     font-family: 'lemonmilk';
-    src: url('/assets/LEMONMILK-Regular.otf') format('woff2');
+    src: url('/Frontend/assets/LEMONMILK-Regular.otf') format('woff2');
 }
