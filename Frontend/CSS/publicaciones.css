@@ -1,196 +1,65 @@
 * {
     padding: 0px;
 }
-
-
-
-/*Modal de login*/
-.modalmask {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background: rgba(0, 0, 0,0.8);
-    z-index: 99;
-    opacity: 0;
-    -webkit-transition: opacity 1s ease-in;
-    -moz-transition: opacity 1s ease-in;
-    transition: opacity 1s ease-in;
-    pointer-events: none;
-    color: #393939;
+h5 {
+    font-size: 15px;
 }
-.modalmask {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background: rgba(0, 0, 0,0.8);
-    z-index: 99;
-    opacity: 0;
-    -webkit-transition: opacity 1s ease-in;
-    -moz-transition: opacity 1s ease-in;
-    transition: opacity 1s ease-in;
-    pointer-events: none;
-    color: #393939;
+.cont_publicacion {
+    width: 50%;
+    margin-left: 32%;
 }
-.modalmask:target {
-    opacity: 1;
-    pointer-events: auto;
+.publicacion {
+    background-color: #fff;
+    border-radius: 20px;
+    width: 75%;
+    min-height: 600px;
+    padding: 20px;
 }
-.modalbox {
-    width: 800px;
-    position: relative;
-    padding: 40px 0px 20px 60px;
-    background: #fff;
-    border-radius: 50px;
-    -webkit-transition: all 500ms ease-in;
-    -moz-transition: all 500ms ease-in;
-    transition: all 500ms ease-in;
-    overflow-x: hidden;
+.publicacion_barra_superior {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0px 10px 0px;
 }
-.modalbox_der {
-    position: absolute;
-    top: 0;
-    left: 52%;
-    background: linear-gradient(45deg, #77cdff, #37b6ff, #0051ff);
-    min-width: 600px;
-    height: 100%;
-    border-radius: 50px 0px 0px 50px;
+.img_publicacion {
+    width:100%;
+    height:auto;
+    border-radius: 10px;
 }
-.movedown {
-    margin: 0 auto;
-}
-.modalmask:target .movedown {
-    margin: 10% auto;
-}
-.close {
-    color: #ffffff;
-    line-height: 25px;
-    position: absolute;
-    right: 30px;
-    text-align: center;
-    top: 25px;
-    width: 24px;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 5px;
-    z-index: 99;
-}
-.close:hover {
-    background: #f2f2f2;
-    color: #222;
-}
-.boton {
-    background: rgb(0, 132, 255);
-    margin-left: 30px;
-    margin-top: 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    color: white;
-    padding: 8px;
-    transition: 0.3s;
-}
-.boton:hover {
-    background: rgb(127, 193, 255);
-    transform: scale(1.1)
-}
-.filas_form {
+.subcont_publi {
     display: flex;
 }
-.filas_form2 {
-    display: block;
+.contenido_publicacion, .comentarios_publicacion {
+    
+    background-color: #cdcdcd;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
 }
-.input1 {
-    width: 125px;
-    padding: 7px 20px;
-    border-radius: 30px;
-    margin-right: 10px;
-    border: 1px solid rgb(159, 159, 159);
+.publicacion_barra_inferior {
+    display: flex;
+    padding: 15px;
+    gap: 20px;
 }
-.input2 {
-    width: 300px;
-    padding: 7px 20px;
-    border-radius: 30px;
-    border: 1px solid rgb(159, 159, 159);
+#texto_publicacion, #titulo_publicacion {
+    color: #3b3b3b;
 }
-.r_h4 {
-    margin-bottom: 8px;
-    font-weight: 4;
+#comentario {
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #b6b6b6;
+    margin-bottom: 10px;
 }
-.parrafo {
-    margin-bottom: 30px;
-    margin-top: -15px;
-    margin-left: -10px;
-    margin-right: 10px;
+#contenedor_comentarios {
+    overflow: auto;
+    max-height: 150px;
 }
-#boton1 {
-    background: rgb(0, 132, 255);
-    margin-top: 40px;
-    margin-right: 20px;
-    text-decoration: none;
-    border-radius: 8px;
-    color: white;
-    padding: 8px 20px;
-    border: 0;
-    transition: 0.3s;
+#titulo {
+    color: #fff;
+    margin-left: 47%;
 }
-#boton2 {
-    background: rgb(255, 0, 34);
-    text-decoration: none;
-    border-radius: 8px;
-    color: white;
-    padding: 8px 15px;
-    border: 0;
-    transition: 0.3s;
+#nombre_cuenta_publicacion {
+    font-size: 15px;
 }
-#boton3 {
-    background: rgb(255, 255, 255);
-    text-decoration: none;
-    border-radius: 8px;
-    color: black;
-    padding: 8px 15px;
-    border: 0;
-    transition: 0.3s;
-    margin-top: 30px;
-}
-#boton1:hover {
-    background: rgb(127, 193, 255);
-    transform: scale(1.05);
-    cursor: pointer;
-}
-#boton2:hover {
-    background: rgb(255, 127, 144);
-    transform: scale(1.05);
-    cursor: pointer;
-}
-#boton3:hover {
-    background: rgb(0, 128, 255);
-    transform: scale(1.05);
-    color: white;
-    cursor: pointer;
-}
-#log_title {
-    margin-left: 18%;
-    margin-top: 30%;
-    color: white;
-}
-#log_conte {
-    position: absolute;
-    color: white;
-    top: 45%;
-    left: 85px;
-    max-width: 250px;
-    text-align: center;
-}
-@keyframes move {
-    0%, 49.99% {
-        opacity: 0;
-        z-index: 1;
-    }
-    50%, 100% {
-        opacity: 1;
-        z-index: 5;
-    }
+#nombre_campaña_publicacion {
+    font-size: 14px;
 }
