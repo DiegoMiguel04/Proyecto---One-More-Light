@@ -59,3 +59,14 @@ CREATE TABLE logs (
     PRIMARY KEY (id),
     FOREIGN KEY (usuario_id) REFERENCES usuarios(id)
 );
+CREATE TABLE estadisticas_usuario (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    usuario_id INT NOT NULL,
+    puntos_por_apoyo INT DEFAULT 0,
+    veces_ayudado_compartiendo INT DEFAULT 0,
+    veces_apoyado_economicamente INT DEFAULT 0,
+    dinero_donado DECIMAL(10, 2) DEFAULT 0.00,
+    nivel_usuario VARCHAR(50) DEFAULT 'Usuario solidario',
+    proxima_meta VARCHAR(100) DEFAULT 'Colaborador activo',
+    FOREIGN KEY (usuario_id) REFERENCES usuarios(id)
+);
