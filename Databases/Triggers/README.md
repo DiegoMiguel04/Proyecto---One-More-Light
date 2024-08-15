@@ -22,5 +22,5 @@ En esta sección se encontrarán las consultas de la base de datos del proyecto.
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Diego Miguel Rivera Chavez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|Líder de desarrollo de frontend|✅Revisado y aprobado.|
-|Jose Francisco Flores Amador|[@JFFA25](https://github.com/JFFA25)|Desarrollador de bases de datos|✅Revisado y aprobado.|
-|Francisco Garcia Garcia|[@F-Ank1](https://github.com/F-ank)|Desarrollador de backend|✅Revisado y aprobado.|
+|Jose Francisco Flores Amador|[@JFFA25](https://github.com/JFFA25)|Desarrollador de bases de datos|😔 No ha revisado.|
+|Francisco Garcia Garcia|[@F-Ank1](https://github.com/F-ank)|Desarrollador de backend|😔 No ha revisado.|
