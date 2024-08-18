@@ -2,10 +2,7 @@
 En esta sección se encontrarán los archivos de tipo CSS utilizados en el proyecto.
 
 ## Estructura de Archivos
-<<<<<<< HEAD
-=======
 
->>>>>>> 922374725f530a589d5dbd09505961faa239dfb4
 >Integradora I - One More Light<br>
 >| - BackEnd<br>
 >| - Databases<br>

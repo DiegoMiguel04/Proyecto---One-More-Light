@@ -11,10 +11,6 @@ En esta sección se encontrarán los recursos utilizados en el proyecto.
 >&nbsp;&nbsp;|- HTML<br>
 >&nbsp;&nbsp;|- CSS<br>
 >&nbsp;&nbsp;|- JS<br>
-<<<<<<< HEAD
-=======
-
->>>>>>> 922374725f530a589d5dbd09505961faa239dfb4
 
 ## Equipo de Desarrollo
 
