@@ -2,7 +2,7 @@
 En esta sección se encontrarán los archivos referentes al manual de usuario.
 
 ## Estructura de Archivos
-> <br>
+
 >Integradora I - One More Light<br>
 >| - BackEnd<br>
 >| - Databases<br>
@@ -12,7 +12,6 @@ En esta sección se encontrarán los archivos referentes al manual de usuario.
 >&nbsp;&nbsp;|- UHs<br>
 >&nbsp;&nbsp;**|- User Manual**<br>
 >| - FrontEnd<br>
-> <br>
 
 ## Equipo de Desarrollo
 
