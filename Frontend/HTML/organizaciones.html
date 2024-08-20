@@ -3,163 +3,161 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/Frontend/CSS/estructura_basica.css">
-    <link rel="stylesheet" href="/Frontend/CSS/organizaciones.css">
+    <link rel="stylesheet" href="../CSS/estructura_basica.css">
+    <link rel="stylesheet" href="../CSS/organizaciones.css">
     <title>Organizaciones</title>
 </head>
 <body>
     <header>
         <div id="barra_logo">
-            <img src="/Frontend/assets/images/logo1.png" alt="logo" width="60px" height="60px">
+            <img src="../assets/images/logo1.png" alt="logo" width="60px" height="60px">
             <p id="logotipo">ONE MORE LIGHT</p>
         </div>
         <div class="barra_superior">
-            <a href="/Frontend/HTML/inicio.html">Inicio</a>
-            <a href="/Frontend/HTML/inicio.html#nosotros">Nosotros</a>
-            <a href="#">Organizaciones</a>
-            <a href="/Frontend/HTML/proyecto.html">Proyecto</a>
-            <a href="/Frontend/HTML/publicaciones.html">Publicaciones</a>
-            <a href="/Frontend/HTML/contacto.html">Contacto</a>
+            <a href="../HTML/inicio.html">Inicio</a>
+            <a href="">Organizaciones</a>
+            <a href="../HTML/proyecto.html">Proyecto</a>
+            <a href="../HTML/publicaciones.html">Publicaciones</a>
+            <a href="../HTML/faq.html">FAQ</a>
+            <a href="../HTML/contacto.html">Contacto</a>
         </div>
         <div  id="barra_boton_login">
-            <a href="/Frontend/HTML/inicio.html#modal_login" id="boton_login">Ingresar</a>
+            <a href="../HTML/inicio.html#modal_login" id="boton_login">Ingresar</a>
         </div>
     </header>
 
 
 
     <main>
-         <!-- Modal de login -->
-        <div id="modal_register" class="modalmask">
-            <div class="modalbox movedown">
-                <a href="#close" title="Cerrar" class="close">🗙</a>
-                <img src="/Frontend/assets/images/logo1.png" alt="logo" class="logo1">
-                <h2 style="margin-left: 10%; margin-top: 5%; font-size: 30px;">Registrarse</h2>
-                <div style="min-height: 50px;"></div>
-                <form  action="">
-                    <div class="filas_form">
-                        <div class="parrafo">
-                            <h4 class="r_h4">Nombre</h4>
-                            <input type="text" class="input2" placeholder="Nombre de usuario" required>
+
+        <div class="fondo_gradiente">
+            <div style="padding-top: 100px;"></div>
+            <center><b style="color: #fff;">Organizaciones</b></center>
+            <div style="padding-top: 30px;"></div>
+            <div class="organizaciones_registradas">
+
+
+
+                <div class="org">
+                    <nav>
+                        <img id="logo_org" src="../assets/images/FotoOrg_Default.png"><br>
+                        <h4 id="nombre_org">Nombre de la organización</h4><br>
+                        <p>Contribuyentes:</p>
+                        <a id="contribuyentes">0</a><br><br>
+                        <img src="../assets/images/logo1.png">
+                    </nav>
+                    <div>
+                        <div class="contenedor_info_org">
+                            <h3 id="titulo_org">Titulo</h3><br>
+                            <p id="descripcion_org" class="descripciones">Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción 
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Des
+                            </p>
                         </div>
-                    </div>
-                    <div class="filas_form">
-                        <div class="parrafo">
-                            <h4 class="r_h4">Email</h4>
-                            <input type="email" class="input2" placeholder="user@gmail.com" required>
+                        <div style="margin-top: auto;">
+                            <button id="boton_sw">Visitar sitio web oficial</button>
                         </div>
-                    </div>
-                    <div class="filas_form">
-                        <div class="parrafo">
-                            <h4 class="r_h4">Contraseña</h4>
-                            <input type="text" class="input2" placeholder="********" required>
-                        </div>
-                    </div>
-                    <div style="min-height: 30px;"></div>
-                    <div class="filas_form">
-                        <div class="parrafo">
-                            <input type="submit" id="boton1" value="Registrarse">
-                            <button id="boton2">⊘ Cancelar</button>
-                        </div>
-                    </div>
-                </form>
-                <div class="modalbox_der">
-                    <div id="log_title">
-                        <h2 style="font-size: 30px;">Iniciar sesión</h2>
-                    </div>
-                    <div id="log_conte">
-                        <p>¿Ya tienes una cuenta registrada? ¡Inicia sesión!</p>
-                        <div style="height: 30px;"></div>
-                        <a href="#modal_login" title="Iniciar sesion" id="boton3">Iniciar sesión</a>
                     </div>
                 </div>
-            </div>
-        </div>
-        <!-- Modal de registro -->
-        <div id="modal_login" class="modalmask">
-            <div class="modalbox movedown">
-                <a href="#close" title="Cerrar" class="close">🗙</a>
-                <img src="/Frontend/assets/images/logo1.png" alt="logo" class="logo1">
-                <h2 style="margin-left: 10%; margin-top: 5%; font-size: 30px;">Iniciar sesión</h2>
-                <div style="min-height: 50px;"></div>
-                <form  action="">
-                    <div class="filas_form">
-                        <div class="parrafo">
-                            <h4 class="r_h4">Email</h4>
-                            <input type="email" class="input2" placeholder="user@gmail.com" required>
+
+                <div class="org">
+                    <nav>
+                        <img id="logo_org" src="../assets/images/FotoOrg_Default.png"><br>
+                        <h4 id="nombre_org">Nombre de la organización</h4><br>
+                        <p>Contribuyentes:</p>
+                        <a id="contribuyentes">0</a><br><br>
+                        <img src="../assets/images/logo1.png">
+                    </nav>
+                    <div>
+                        <div class="contenedor_info_org">
+                            <h3 id="titulo_org">Titulo</h3><br>
+                            <p id="descripcion_org" class="descripciones">Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción 
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Des
+                            </p>
                         </div>
-                    </div>
-                    <div class="filas_form">
-                        <div class="parrafo">
-                            <h4 class="r_h4">Contraseña</h4>
-                            <input type="text" class="input2" placeholder="********" required>
+                        <div style="margin-top: auto;">
+                            <button id="boton_sw">Visitar sitio web oficial</button>
                         </div>
-                    </div>
-                    <div style="min-height: 100px;"></div>
-                    <div class="filas_form">
-                        <div class="parrafo">
-                            <input type="submit" id="boton1" value="Iniciar sesión">
-                            <button id="boton2">⊘ Cancelar</button>
-                        </div>
-                    </div>
-                </form>
-                <div class="modalbox_der">
-                    <div id="log_title">
-                        <h2 style="font-size: 30px; margin-left: 18px;">Registrarse</h2>
-                    </div>
-                    <div id="log_conte" style="margin-top: -20px;">
-                        <p>¿No tienes una cuenta? ¡Registrate!</p>
-                        <div style="height: 30px;"></div>
-                        <a href="#modal_register" title="Registrarse" id="boton3">Registrarse</a>
                     </div>
                 </div>
+                
+                <div class="org">
+                    <nav>
+                        <img id="logo_org" src="../assets/images/FotoOrg_Default.png"><br>
+                        <h4 id="nombre_org">Nombre de la organización</h4><br>
+                        <p>Contribuyentes:</p>
+                        <a id="contribuyentes">0</a><br><br>
+                        <img src="../assets/images/logo1.png">
+                    </nav>
+                    <div>
+                        <div class="contenedor_info_org">
+                            <h3 id="titulo_org">Titulo</h3><br>
+                            <p id="descripcion_org" class="descripciones">Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción 
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción Descripción
+                                Descripción Descripción Des
+                            </p>
+                        </div>
+                        <div style="margin-top: auto;">
+                            <button id="boton_sw">Visitar sitio web oficial</button>
+                        </div>
+                    </div>
+                </div>
+
+
+
             </div>
         </div>
-
-
-
     </main>
-
 
     <footer>
         <div class="elementos_desplazados">
             <div class="sub_elementos_footer">
                 <h3>Mas información</h3><br>
-                <a href="/Frontend/HTML/inicio.html#nosotros" class="footer_anclas">Quienes somos</a><br>
-                <a href="/Frontend/HTML/organizaciones.html" class="footer_anclas">Organizaciones</a><br>
-                <a href="/Frontend/HTML/publicaciones.html" class="footer_anclas">Publicaciones</a><br>
-                <a href="/Frontend/HTML/proyecto.html" class="footer_anclas">Proyecto</a><br>
-                <a href="/Frontend/HTML/inicio.html" class="footer_anclas">Inicio</a>
+                <a href="../HTML/inicio.html#nosotros" class="footer_anclas">Quienes somos</a><br>
+                <a href="../HTML/organizaciones.html" class="footer_anclas">Organizaciones</a><br>
+                <a href="../HTML/publicaciones.html" class="footer_anclas">Publicaciones</a><br>
+                <a href="../HTML/proyecto.html" class="footer_anclas">Proyecto</a><br>
+                <a href="../HTML/inicio.html" class="footer_anclas">Inicio</a>
             </div>
             <div class="sub_elementos_footer">
                 <h3>Acerca de</h3><br>
-                <p>Texto...</p>
+                <a href="../HTML/FAQ.html" class="footer_anclas">Preguntas frecuentes</a>
             </div>
             <div class="sub_elementos_footer">
                 <h3>Contacto</h3><br>
                 <div class="elementos_desplazados">
-                    <a href="https://www.facebook.com/" class="items_footer"><img src="/Frontend/assets/icons/icon_facebook.png" alt="icon" width="25px" height="25px"></a>
-                    <a href="https://www.instagram.com/" class="items_footer"><img src="/Frontend/assets/icons/icon_instagram.png" alt="icon" width="25px" height="25px"></a>
-                    <a href="https://www.twitter.com/"><img src="/Frontend/assets/icons/icon_x.png" alt="icon" width="25px" height="25px" ></a>
+                    <a href="https://www.facebook.com/" class="items_footer"><img src="../assets/icons/icon_facebook.png" alt="icon" width="25px" height="25px"></a>
+                    <a href="https://www.instagram.com/" class="items_footer"><img src="../assets/icons/icon_instagram.png" alt="icon" width="25px" height="25px"></a>
+                    <a href="https://www.twitter.com/"><img src="../assets/icons/icon_x.png" alt="icon" width="25px" height="25px" ></a>
                 </div><br>
                 <div class="elementos_desplazados">
-                    <img src="/Frontend/assets/icons/icon_telefono.png" alt="icon" width="25px" height="25px" class="items_footer">
+                    <img src="../assets/icons/icon_telefono.png" alt="icon" width="25px" height="25px" class="items_footer">
                     +52 764 115 2106
                 </div><br>
                 <div class="elementos_desplazados">
-                    <img src="/Frontend/assets/icons/icon_correo-electronico.png" alt="icon" width="25px" height="25px" class="items_footer">
+                    <img src="../assets/icons/icon_correo-electronico.png" alt="icon" width="25px" height="25px" class="items_footer">
                     onemorelight@gmail.com
                 </div>
             </div>
             <div style="min-width: 50px;"></div>
             <div class="sub_elementos_footer">
                 <h3>Responsabilidad</h3><br>
-                <p>La presente plataforma busca serle util a los usuarios</p>
+                <p>La presente plataforma busca promover el apoyo en contra de las diferentes problematicas que vivimos hoy en dia y serle util a los usuarios que buscan apoyar campañas sin fines de lucro.</p>
             </div>
         </div>
     </footer>
     <div class="footer_bajo">
-        <img src="/Frontend/assets/images/logo1_contraste.png" alt="logo" width="75px" height="75px" draggable="false">
+        <img src="../assets/images/logo1_contraste.png" alt="logo" width="75px" height="75px" draggable="false">
     </div>
 </body>
 </html>

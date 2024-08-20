@@ -35,7 +35,7 @@ function EditarPerfil() {
     }
     switch_editar_perfil = !switch_editar_perfil;
 }
-//Apartado de ortganizaciones
+//Apartado de organizaciones
 function mostrarOrgGeneral() {
     document.getElementById('organizaciones').style.display = 'block';
     document.getElementById('organizaciones_apoyadas').style.display = 'none';
@@ -43,6 +43,30 @@ function mostrarOrgGeneral() {
 function mostrarOrgApoyadas() {
     document.getElementById('organizaciones').style.display = 'none';
     document.getElementById('organizaciones_apoyadas').style.display = 'block';
+}
+//Funciones de Administrador
+function MostrarAdministracion() {
+    document.getElementById('estadisticas_user').style.display = 'none';
+    document.getElementById('estadisticas_admin').style.display = 'block';
+    document.getElementById('boton_puntos_admin').style.display = 'block';
+    document.getElementById('boton_admistrar1').style.display = 'none';
+    document.getElementById('boton_admistrar2').style.display = 'block';
+    boton_editar_perfil.disabled = true;
+    EditarPerfil();
+}
+function NoMostrarAdministracion() {
+    document.getElementById('estadisticas_user').style.display = 'block';
+    document.getElementById('estadisticas_admin').style.display = 'none';
+    document.getElementById('boton_puntos_admin').style.display = 'none';
+    document.getElementById('boton_admistrar1').style.display = 'block';
+    document.getElementById('boton_admistrar2').style.display = 'none';
+    document.getElementById('puntos_totales').innerText = document.getElementById('puntos_totales_admin').value;
+    document.getElementById('tapitas_donadas').innerText = document.getElementById('tapitas_donadas_admin').value;
+    document.getElementById('veces_compartidos').innerText = document.getElementById('veces_compartidos_admin').value;
+    document.getElementById('veces_apoyado').innerText = document.getElementById('veces_apoyado_admin').value;
+    document.getElementById('dinero_donado').innerText = document.getElementById('dinero_donado_admin').value;
+    boton_editar_perfil.disabled = false;
+    EditarPerfil();
 }
 //Barra de nivel del usuario
 const nivel_user = document.getElementById("nivel_user");

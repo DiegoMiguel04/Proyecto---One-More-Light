@@ -55,6 +55,20 @@ body {
     cursor: pointer;
     background-color: #60a2ff;
 }
+.botones_org2 {
+    border: 0;
+    margin-right: 15px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    background-color: #2e4c77;
+    transition: 0.4s;
+}
+.botones_org2:hover {
+    cursor: pointer;
+    background-color: #60a2ff;
+}
 #boton_editar_perfil {
     width: 40px;
     height: 40px;
@@ -68,7 +82,6 @@ body {
     cursor: pointer;
     background-color: #60a2ff;
 }
-
 
 
 
@@ -91,16 +104,16 @@ body {
 #organizaciones_apoyadas {
     display: none;
 }
-.mini_contenedor1, .mini_contenedor2 {
+.mini_contenedor1, .mini_contenedor1_admin, .mini_contenedor2 {
     margin-top: 10px;
     border-radius: 10px;
     background: linear-gradient(45deg, #19274b, #2a4079);
     width: 100%;
     padding: 20px;
-    height: 150px;
+    height: 180px;
 }
 .mini_contenedor2 {
-    height: 100px;
+    height: 120px;
 }
 .sub_titulos {
     margin-right: 20px;
@@ -123,6 +136,14 @@ body {
 .org_img {
     width: 90px;
     height: 90px;
+}
+.input_admin {
+    width: 50px;
+    background-color: #ffffff59;
+    border: 0;
+    border-radius: 5px;
+    padding: 2px 5px 2px 5px;
+    color: #fff;
 }
 
 

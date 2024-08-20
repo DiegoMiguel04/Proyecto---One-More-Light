@@ -12,7 +12,7 @@ En esta sección se encontrarán los archivos de tipo JavaScript utilizados en e
 >&nbsp;&nbsp;|- assets<br>
 >&nbsp;&nbsp;|- HTML<br>
 >&nbsp;&nbsp;|- CSS<br>
->&nbsp;&nbsp;**|- JS**<br>
+>&nbsp;&nbsp;**|- JS**
 
 ## Equipo de Desarrollo
 
