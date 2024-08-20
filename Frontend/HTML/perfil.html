@@ -4,25 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../CSS/estructura_basica.css">
-    <link rel="stylesheet" href="/Frontend/CSS/perfil.css">
+    <link rel="stylesheet" href="../CSS/perfil.css">
     <title>Perfil</title>
 </head>
 <body>
     <header>
         <div id="barra_logo">
-            <img src="/Frontend/assets/images/logo1.png" alt="logo" width="60px" height="60px">
+            <img src="../assets/images/logo1.png" alt="logo" width="60px" height="60px">
             <p id="logotipo">ONE MORE LIGHT</p>
         </div>
         <div class="barra_superior">
-            <a href="/Frontend/HTML/inicio.html">Inicio</a>
-            <a href="/Frontend/HTML/organizaciones.html">Organizaciones</a>
-            <a href="/Frontend/HTML/proyecto.html">Proyecto</a>
-            <a href="/Frontend/HTML/publicaciones.html">Publicaciones</a>
-            <a href="/Frontend/HTML/faq.html">FAQ</a>
-            <a href="/Frontend/HTML/contacto.html">Contacto</a>
+            <a href="../HTML/inicio.html">Inicio</a>
+            <a href="../HTML/organizaciones.html">Organizaciones</a>
+            <a href="../HTML/proyecto.html">Proyecto</a>
+            <a href="../HTML/publicaciones.html">Publicaciones</a>
+            <a href="../HTML/faq.html">FAQ</a>
+            <a href="../HTML/contacto.html">Contacto</a>
         </div>
         <div  id="barra_boton_login">
-            <a href="/Frontend/HTML/inicio.html#modal_login" id="boton_login">Ingresar</a>
+            <a href="../HTML/inicio.html#modal_login" id="boton_login">Ingresar</a>
         </div>
     </header>
 
@@ -37,7 +37,7 @@
                 <div class="contenedor_perfil">
                     <h1>Mi perfil</h1>
                     <div id="cont_FotoPerfi">
-                        <img src="/Frontend/assets/images/FotoPerfil_Default.png" alt="" class="foto_perfil">
+                        <img src="../assets/images/FotoPerfil_Default.png" alt="" class="foto_perfil">
                     </div>
                     <label for="nombre_usuario">Nombre de usuario</label><br>
                     <input type="text" id="nombre_user" value="Nombre de usuario" disabled/><br><br>
@@ -45,7 +45,7 @@
                     <input type="email" id="correo_user" value="user@gmail.com" disabled/><br><br>
                     <label for="descripcion_user">Descripción</label><br>
                     <textarea id="descripcion_user" placeholder="Acerca de ti..." disabled></textarea><br><br>
-                    <button onclick="EditarPerfil()" id="boton_editar_perfil"><img src="/Frontend/assets/icons/editar_perfil.png" width="100%" height="100%" id="img_editar_perfil"></button>
+                    <button onclick="EditarPerfil()" id="boton_editar_perfil"><img src="../assets/icons/editar_perfil.png" width="100%" height="100%" id="img_editar_perfil"></button>
                 </div>
                 <div class="contenedor_informacion">
                     <div id="titulo_cont_info">
@@ -57,28 +57,28 @@
                     </div>
                     <div id="organizaciones">
                         <div class="org_fila">
-                            <img src="/Frontend/assets/images/FotoOrg_Default.png" class="org_img">
+                            <img src="../assets/images/FotoOrg_Default.png" class="org_img">
                             <div class="org_fila_info">
                                 <h4>Nombre de la organización</h4>
                                 <p>Descripcion de la organización</p>
                             </div>
                         </div>
                         <div class="org_fila">
-                            <img src="/Frontend/assets/images/FotoOrg_Default.png" class="org_img">
+                            <img src="../assets/images/FotoOrg_Default.png" class="org_img">
                             <div class="org_fila_info">
                                 <h4>Nombre de la organización</h4>
                                 <p>Descripcion de la organización</p>
                             </div>
                         </div>
                         <div class="org_fila">
-                            <img src="/Frontend/assets/images/FotoOrg_Default.png" class="org_img">
+                            <img src="../assets/images/FotoOrg_Default.png" class="org_img">
                             <div class="org_fila_info">
                                 <h4>Nombre de la organización</h4>
                                 <p>Descripcion de la organización</p>
                             </div>
                         </div>
                         <div class="org_fila">
-                            <img src="/Frontend/assets/images/FotoOrg_Default.png" class="org_img">
+                            <img src="../assets/images/FotoOrg_Default.png" class="org_img">
                             <div class="org_fila_info">
                                 <h4>Nombre de la organización</h4>
                                 <p>Descripcion de la organización</p>
@@ -87,33 +87,43 @@
                     </div>
                     <div id="organizaciones_apoyadas">
                         <div class="org_fila">
-                            <img src="/Frontend/assets/images/FotoOrg_Default.png" class="org_img">
+                            <img src="../assets/images/FotoOrg_Default.png" class="org_img">
                             <div class="org_fila_info">
                                 <h4>Nombre de la organización</h4>
                                 <p>Descripcion de la organización</p>
                             </div>
                         </div>
                         <div class="org_fila">
-                            <img src="/Frontend/assets/images/FotoOrg_Default.png" class="org_img">
+                            <img src="../assets/images/FotoOrg_Default.png" class="org_img">
                             <div class="org_fila_info">
                                 <h4>Nombre de la organización</h4>
                                 <p>Descripcion de la organización</p>
                             </div>
                         </div>
-                    </div>
+                    </div><br>
                     <h3>Estadisticas del usuario:</h3>
-                    <div class="mini_contenedor1">
-                        <a href="#" class="espacio">❔</a><a class="sub_titulos">Puntos por apoyo:</a><a id="puntos_totales">0</a> ⭐<br><br>
-                        <a href="#" class="espacio">❔</a><a class="sub_titulos">Veces que has ayudado compartiendo:</a><a id="puntos_totales">0</a><br><br>
-                        <a href="#" class="espacio">❔</a><a class="sub_titulos">Veces que has apoyado economicamente:</a><a id="puntos_totales">0</a><br><br>
-                        <a href="#" class="espacio">❔</a><a class="sub_titulos">Dinero donado:</a><a id="puntos_totales">0</a>
+                    <div class="mini_contenedor1" id="estadisticas_user" style="display: block;">
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Puntos por apoyo:</a><a id="puntos_totales">0</a> ⭐<br><br>
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Tapitas donadas:</a><a id="tapitas_donadas">0</a><br><br>
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Veces que has ayudado compartiendo:</a><a id="veces_compartidos">0</a><br><br>
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Veces que has apoyado economicamente:</a><a id="veces_apoyado">0</a><br><br>
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Dinero donado:</a><a id="dinero_donado">0</a><br><br>
+                    </div>
+                    <div class="mini_contenedor1_admin" id="estadisticas_admin" style="display: none;">
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Puntos por apoyo:</a><input type="number" class="input_admin" id="puntos_totales_admin" value="0"> ⭐<br><br>
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Tapitas donadas:</a><input type="number" class="input_admin" id="tapitas_donadas_admin" value="0"><br><br>
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Veces que has ayudado compartiendo:</a><input type="number" class="input_admin" id="veces_compartidos_admin" value="0"><br><br>
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Veces que has apoyado economicamente:</a><input type="number" class="input_admin" id="veces_apoyado_admin" value="0"><br><br>
+                        <a href="../HTML/faq.html" class="espacio">❔</a><a class="sub_titulos">Dinero donado:</a><input type="number" class="input_admin" id="dinero_donado_admin" value="0">
                     </div>
                     <div class="mini_contenedor2">
                         <p>Nivel de usuario: <a id="rango_user">Usuario solidario</a></p>
                         <progress id="nivel_user" value="0" max="20"></progress>
-                        <p>Proxima meta: <a id="prox_meta">Colaborador activo</a></p>
-                        <button onclick="SubirBarraNivel(5)">subir puntos (pruebas)</button> <!--  eliminar boton -->
-                    </div>
+                        <p>Proxima meta: <a id="prox_meta">Colaborador activo</a></p><br>
+                        <button onclick="SubirBarraNivel(5)" class="botones_org2" id="boton_puntos_admin" style="display: none;">subir puntos</button> <!--  eliminar boton -->
+                    </div><br>
+                    <button id="boton_admistrar1" class="botones_org2" onclick="MostrarAdministracion()" style="display: block;">Administrar</button>
+                    <button id="boton_admistrar2" class="botones_org2" onclick="NoMostrarAdministracion()" style="display: none;">Guardar</button>
                 </div>
             </div>
         </div>
@@ -125,29 +135,29 @@
         <div class="elementos_desplazados">
             <div class="sub_elementos_footer">
                 <h3>Mas información</h3><br>
-                <a href="/Frontend/HTML/inicio.html#nosotros" class="footer_anclas">Quienes somos</a><br>
-                <a href="/Frontend/HTML/organizaciones.html" class="footer_anclas">Organizaciones</a><br>
-                <a href="/Frontend/HTML/publicaciones.html" class="footer_anclas">Publicaciones</a><br>
-                <a href="/Frontend/HTML/proyecto.html" class="footer_anclas">Proyecto</a><br>
-                <a href="/Frontend/HTML/inicio.html" class="footer_anclas">Inicio</a>
+                <a href="../HTML/inicio.html#nosotros" class="footer_anclas">Quienes somos</a><br>
+                <a href="../HTML/organizaciones.html" class="footer_anclas">Organizaciones</a><br>
+                <a href="../HTML/publicaciones.html" class="footer_anclas">Publicaciones</a><br>
+                <a href="../HTML/proyecto.html" class="footer_anclas">Proyecto</a><br>
+                <a href="../HTML/inicio.html" class="footer_anclas">Inicio</a>
             </div>
             <div class="sub_elementos_footer">
                 <h3>Acerca de</h3><br>
-                <a href="/Frontend/HTML/FAQ.html" class="footer_anclas">Preguntas frecuentes</a>
+                <a href="../HTML/FAQ.html" class="footer_anclas">Preguntas frecuentes</a>
             </div>
             <div class="sub_elementos_footer">
                 <h3>Contacto</h3><br>
                 <div class="elementos_desplazados">
-                    <a href="https://www.facebook.com/" class="items_footer"><img src="/Frontend/assets/icons/icon_facebook.png" alt="icon" width="25px" height="25px"></a>
-                    <a href="https://www.instagram.com/" class="items_footer"><img src="/Frontend/assets/icons/icon_instagram.png" alt="icon" width="25px" height="25px"></a>
-                    <a href="https://www.twitter.com/"><img src="/Frontend/assets/icons/icon_x.png" alt="icon" width="25px" height="25px" ></a>
+                    <a href="https://www.facebook.com/" class="items_footer"><img src="../assets/icons/icon_facebook.png" alt="icon" width="25px" height="25px"></a>
+                    <a href="https://www.instagram.com/" class="items_footer"><img src="../assets/icons/icon_instagram.png" alt="icon" width="25px" height="25px"></a>
+                    <a href="https://www.twitter.com/"><img src="../assets/icons/icon_x.png" alt="icon" width="25px" height="25px" ></a>
                 </div><br>
                 <div class="elementos_desplazados">
-                    <img src="/Frontend/assets/icons/icon_telefono.png" alt="icon" width="25px" height="25px" class="items_footer">
+                    <img src="../assets/icons/icon_telefono.png" alt="icon" width="25px" height="25px" class="items_footer">
                     +52 764 115 2106
                 </div><br>
                 <div class="elementos_desplazados">
-                    <img src="/Frontend/assets/icons/icon_correo-electronico.png" alt="icon" width="25px" height="25px" class="items_footer">
+                    <img src="../assets/icons/icon_correo-electronico.png" alt="icon" width="25px" height="25px" class="items_footer">
                     onemorelight@gmail.com
                 </div>
             </div>
@@ -159,8 +169,8 @@
         </div>
     </footer>
     <div class="footer_bajo">
-        <img src="/Frontend/assets/images/logo1_contraste.png" alt="logo" width="75px" height="75px" draggable="false">
+        <img src="../assets/images/logo1_contraste.png" alt="logo" width="75px" height="75px" draggable="false">
     </div>
-    <script src="/Frontend/JS/perfil.js"></script>
+    <script src="../JS/perfil.js"></script>
 </body>
 </html>
