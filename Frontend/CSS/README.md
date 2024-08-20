@@ -3,8 +3,12 @@ En esta sección se encontrarán los archivos de tipo CSS utilizados en el proye
 
 ## Estructura de Archivos
 
+<<<<<<< HEAD
 >Integradora I - One More Light
 
+=======
+>Integradora I - One More Light<br>
+>>>>>>> Paco
 >| - BackEnd<br>
 >| - Databases<br>
 >| - Documentation<br>

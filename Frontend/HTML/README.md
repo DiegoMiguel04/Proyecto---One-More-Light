@@ -3,8 +3,12 @@ En esta sección se encontrarán los documentos HTML utilizados en el proyecto.
 
 ## Estructura de Archivos
 
+<<<<<<< HEAD
 >Integradora I - One More Light
 
+=======
+>Integradora I - One More Light<br>
+>>>>>>> Paco
 >| - BackEnd<br>
 >| - Databases<br>
 >| - Documentation<br>
