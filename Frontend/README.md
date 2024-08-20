@@ -8,7 +8,7 @@ En esta sección se encontrarán todas las carpetas relacionadas al Frontend del
 >| - BackEnd<br>
 >| - Databases<br>
 >| - Documentation<br>
->**| - FrontEnd**<br>
+>| - **FrontEnd**<br>
 >&nbsp;&nbsp;|- Assets<br>
 >&nbsp;&nbsp;|- HTML<br>
 >&nbsp;&nbsp;|- CSS<br>
