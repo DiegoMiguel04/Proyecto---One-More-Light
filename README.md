@@ -44,6 +44,9 @@ Logo del proyecto:
 ## Organigrama
 ![Organigrama](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/Frontend/assets/Organigrama_Equipo.jpg)
 
+## Diagrama de Gantt
+![Gantt](https://github.com/DiegoMiguel04/Proyecto---One-More-Light/blob/main/Frontend/assets/images/gantt.png)
+
 ## Autores
 1. **Diego Miguel Rivera Chávez** /[@DiegoMiguel04](https://github.com/DiegoMiguel04)
 2. **José Francisco Flores Amador** / [@JFFA25](https://github.com/JFFA25)
