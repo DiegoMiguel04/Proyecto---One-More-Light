@@ -1,4 +1,4 @@
-# Triggers  ![Triggers](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+# Triggers  ![Triggers](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 En esta sección se encontrarán las consultas de la base de datos del proyecto.
 
 ## Estructura de Archivos
